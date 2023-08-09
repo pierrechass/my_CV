@@ -1,6 +1,6 @@
 ## [my CV](my_CV.pdf)
 
-This Latex CV template is taken from: [Awesome CV template](https://github.com/posquit0/Awesome-CV).
+This LaTeX CV template is taken from: [Awesome CV template](https://github.com/posquit0/Awesome-CV).
 Which is distributed under the [The LaTeX Project Public License](https://github.com/posquit0/Awesome-CV/blob/master/LICENCE).
 
 ## Credit
